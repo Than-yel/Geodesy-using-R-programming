@@ -1,5 +1,4 @@
 # Geodesy-using-R-programming
-R code for Geometric Geodesy
 
 The Earth is a viscous fluid body, rotating in space about its axis that passes through the poles
 and centre of mass, and this axis of revolution is inclined to its orbital plane of rotation about
